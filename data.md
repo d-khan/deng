@@ -169,3 +169,14 @@ SQL statement types
 
 ![image](https://github.com/d-khan/deng/assets/11669149/f388fbcd-4860-413d-8f80-645e4eb75129)
 
+## Contraints
+### Entity integrity constraints
+With the Entity Integrity Constraint no attribute participating in the primary key is allowed to accept NULL values.
+<img width="683" alt="image" src="https://github.com/d-khan/deng/assets/11669149/48ef9d5e-30f3-4c46-85b1-9602e223a777">
+<img width="667" alt="image" src="https://github.com/d-khan/deng/assets/11669149/e9c207fd-10fc-4c56-8ad6-8c7fb5ff7621">
+### Referential integrity constraints
+<img width="651" alt="image" src="https://github.com/d-khan/deng/assets/11669149/daf6e265-20b7-4712-816c-cbf4717d4c56">
+
+
+
+
