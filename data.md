@@ -174,8 +174,26 @@ SQL statement types
 With the Entity Integrity Constraint no attribute participating in the primary key is allowed to accept NULL values.
 <img width="683" alt="image" src="https://github.com/d-khan/deng/assets/11669149/48ef9d5e-30f3-4c46-85b1-9602e223a777">
 <img width="667" alt="image" src="https://github.com/d-khan/deng/assets/11669149/e9c207fd-10fc-4c56-8ad6-8c7fb5ff7621">
+
 ### Referential integrity constraints
+Referential integrity constraint defines relationships between tables and ensures that these relationships remain valid. The validity of the data is enforced using a combination of Primary Keys and Foreign Keys.
 <img width="651" alt="image" src="https://github.com/d-khan/deng/assets/11669149/daf6e265-20b7-4712-816c-cbf4717d4c56">
+
+### Semantic integrity constraints
+Correctness of the data
+<img width="658" alt="image" src="https://github.com/d-khan/deng/assets/11669149/9477aa2f-5030-4983-9009-f63f90583b3e">
+
+### Domain integrity constraints
+Valid data type
+<img width="671" alt="image" src="https://github.com/d-khan/deng/assets/11669149/9b04b301-f80a-45ae-a5e4-c7cee89303c2">
+
+### Null integrity constraints
+Attribute cannot be NULL
+<img width="669" alt="image" src="https://github.com/d-khan/deng/assets/11669149/afb31e0d-b603-47f4-9f49-171a37784ebb">
+
+### Check integrity constaints
+Range of valid values
+<img width="654" alt="image" src="https://github.com/d-khan/deng/assets/11669149/aa8d92a9-8b47-439a-a46f-ca15c3cf8948">
 
 
 
