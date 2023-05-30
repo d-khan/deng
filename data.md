@@ -195,6 +195,9 @@ Attribute cannot be NULL
 Range of valid values
 <img width="654" alt="image" src="https://github.com/d-khan/deng/assets/11669149/aa8d92a9-8b47-439a-a46f-ca15c3cf8948">
 
+## PostgreSQL RDBMS
+<img width="691" alt="image" src="https://github.com/d-khan/deng/assets/11669149/5f1a8069-cbb0-4001-ab09-a0d7dfa1b7db">
+
 
 
 
