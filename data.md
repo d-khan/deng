@@ -198,6 +198,12 @@ Range of valid values
 ## PostgreSQL RDBMS
 <img width="691" alt="image" src="https://github.com/d-khan/deng/assets/11669149/5f1a8069-cbb0-4001-ab09-a0d7dfa1b7db">
 
+## The database life cycle
+<img width="656" alt="image" src="https://github.com/d-khan/deng/assets/11669149/79b2c37a-ad76-4e2a-8bfe-666dd3893cd5">
+
+## The database hierarchy
+<img width="623" alt="Screen Shot 2023-06-03 at 7 48 40 AM" src="https://github.com/d-khan/deng/assets/11669149/9724db81-ba64-4cfb-8317-03c7e3af3f4d">
+
 
 
 
