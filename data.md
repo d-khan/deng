@@ -222,7 +222,7 @@ Range of valid values
 ## Tablespace benefits
 <img width="614" alt="image" src="https://github.com/d-khan/deng/assets/11669149/6c810bf6-9417-46e1-acd1-e45a0b0f9515">
 
-""" Difference between containers and tablespaces
+> Difference between containers and tablespaces
 
 
 
