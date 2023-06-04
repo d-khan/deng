@@ -204,6 +204,27 @@ Range of valid values
 ## The database hierarchy
 <img width="623" alt="Screen Shot 2023-06-03 at 7 48 40 AM" src="https://github.com/d-khan/deng/assets/11669149/9724db81-ba64-4cfb-8317-03c7e3af3f4d">
 
+## Common database objects
+<img width="619" alt="image" src="https://github.com/d-khan/deng/assets/11669149/c782276b-0020-4d93-a449-77116810aa6f">
+
+## Db2 system objects
+<img width="597" alt="image" src="https://github.com/d-khan/deng/assets/11669149/5f794c17-221e-4201-84ae-8d128c018e1b">
+
+## MySQL system objects
+<img width="462" alt="image" src="https://github.com/d-khan/deng/assets/11669149/b3486c37-2de6-47bd-ac02-55e0d88653d3">
+
+## PostgreSQL system objects
+<img width="566" alt="image" src="https://github.com/d-khan/deng/assets/11669149/33078e96-9ba2-4da7-8bef-18b762ee2147">
+
+## Configuration file examples
+<img width="575" alt="image" src="https://github.com/d-khan/deng/assets/11669149/6c7dcc68-db63-4211-955c-e5b49522e141">
+
+## Tablespace benefits
+<img width="614" alt="image" src="https://github.com/d-khan/deng/assets/11669149/6c810bf6-9417-46e1-acd1-e45a0b0f9515">
+
+
+
+
 
 
 
