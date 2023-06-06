@@ -224,6 +224,27 @@ Range of valid values
 
 > Difference between containers and tablespaces
 
+## Physical and logical backup
+<img width="612" alt="image" src="https://github.com/d-khan/deng/assets/11669149/01108b3d-14db-43e1-8b0f-2b2586abacff">
+
+## Types of backup
+- Full backup
+- Point in time backup
+- Differential backup: A copy of any data that has changed since the last full backup was taken.
+- Incremental backup: A copy of any data that has changed since the last backup of any type that was taken.
+
+## Transaction log usage example
+<img width="612" alt="image" src="https://github.com/d-khan/deng/assets/11669149/427496ad-bd84-4c2c-9a66-896ab0f9a44e">
+
+## Storing transaction log file
+<img width="615" alt="image" src="https://github.com/d-khan/deng/assets/11669149/120e64ef-b39c-467e-8499-0008a048b619">
+<img width="614" alt="image" src="https://github.com/d-khan/deng/assets/11669149/1fc95cfb-aa7e-48ea-87e9-cec7b5e04a81">
+
+## Basic anatomy of a database log
+<img width="602" alt="image" src="https://github.com/d-khan/deng/assets/11669149/71edbc90-ee89-4555-b19b-b7264b4ea133">
+
+
+
 
 
 
